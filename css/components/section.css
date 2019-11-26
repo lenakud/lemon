@@ -340,7 +340,37 @@ text-transform: uppercase;
     }
    
 }
+@media (max-width: 500px){
+    h1 {
+        font-size: 35px;
+        
+    }
+  .column-wrapper {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  }
+  .col-50 {
+      width: 100%;
+  }
 
+  .product-image-wrapper img {
+    width: 80%;
+    margin: 0 auto;
+   
+}
+.about-image-wrapper img {
+    margin: 0 auto;
+}
+.triangle::after {
+    
+    bottom: 130px; 
+   
+   }
+}
+}
 @media (max-width: 480px){
 
     h1 {
