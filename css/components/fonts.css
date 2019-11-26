@@ -1,0 +1,131 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../../fonts/psd.eot?ijurjn');
+    src:  url('../../fonts/psd.eot?ijurjn#iefix') format('embedded-opentype'),
+      url('../../fonts/psd.ttf?ijurjn') format('truetype'),
+      url('../../fonts/psd.woff?ijurjn') format('woff'),
+      url('../../fonts/psd.svg?ijurjn#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .icon-youtube-logo:before {
+    content: "\e900";
+    color:#445162;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+  }
+  .icon-icon:before {
+    content: "\e901";
+    color:#445162;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+  }
+  .icon-linkedin-letters:before {
+    content: "\e902";
+    color:#445162;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+  }
+  .icon-twitter:before {
+    content: "\e903";
+    color:#445162;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+  }
+  .icon-youtube-logo:before {
+    content: "\e904";
+    color:#445162;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+  }
+
+  .icon-facebook-logo:before {
+    content: "\e900";
+    color:#445162;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+  }
+
+  @media (max-width: 575px) {
+    .icon-youtube-logo:before {
+      content: "\e900";
+      color:#445162;
+      font-size: 15px;
+      padding: 10px;
+      border-radius: 50%;
+      background-color: rgb(255, 255, 255);
+    }
+    .icon-icon:before {
+      content: "\e901";
+      color:#445162;
+      font-size: 15px;
+      padding: 10px;
+      border-radius: 50%;
+      background-color: rgb(255, 255, 255);
+    }
+    .icon-linkedin-letters:before {
+      content: "\e902";
+      color:#445162;
+      font-size: 15px;
+      padding: 10px;
+      border-radius: 50%;
+      background-color: rgb(255, 255, 255);
+    }
+    .icon-twitter:before {
+      content: "\e903";
+      color:#445162;
+      font-size: 15px;
+      padding: 10px;
+      border-radius: 50%;
+      background-color: rgb(255, 255, 255);
+    }
+    .icon-youtube-logo:before {
+      content: "\e904";
+      color:#445162;
+      font-size: 15px;
+      padding: 10px;
+      border-radius: 50%;
+      background-color: rgb(255, 255, 255);
+    }
+  
+    .icon-facebook-logo:before {
+      content: "\e900";
+      color:#445162;
+      font-size: 15px;
+      padding: 10px;
+      border-radius: 50%;
+      background-color: rgb(255, 255, 255);
+    }
+  
+  }
+ 
+  
